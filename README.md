@@ -1,6 +1,6 @@
 # DPT-GNN: Transition-Aware Dual-Phase Graph Transformer for Gravimetric Capacity Prediction of Lithium-Ion Battery Cathodes
 
-[![Paper](https://img.shields.io/badge/Paper-NXMATE--D--26--05704-blue)](https://doi.org/)
+[![Paper](https://img.shields.io/badge/Paper-Under_Review-blue)](https://doi.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Official code repository for the paper:
