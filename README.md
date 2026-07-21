@@ -39,7 +39,7 @@ DPT-GNN-Repo/
 
 ## ⚠️ Naming Conventions
 
-During development, the model and features used internal laboratory naming conventions. To guarantee exact reproducibility of the reported weights and results, **no functional code has been altered**. The table below maps the code names to the submitted manuscript terminology.
+During the initial development of this project, the model and its features used internal laboratory naming conventions (e.g., `BattGTXv7`). To ensure the code provided here exactly reproduces the weights and results reported in the manuscript, we have retained the original variable names in the codebase. The table below maps these internal code names to the formal terminology used in the submitted manuscript.
 
 ### Model Name
 
@@ -86,9 +86,9 @@ The data is split at the **battery-ID level** (not at the data-point level) usin
 
 | Split | Samples | Unique Batteries |
 |:---|:---|:---|
-| Train | 2,314 (69.3%) | — |
-| Validation | 330 (9.9%) | — |
-| Test | 695 (20.8%) | 252 |
+| Train | 2,314 (~70%) | — |
+| Validation | 330 (~10%) | — |
+| Test | 695 (~20%) | 252 |
 
 ## Usage
 
